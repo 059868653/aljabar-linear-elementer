@@ -81,7 +81,7 @@ $$
 \end{pmatrix}
 $$
 
-#### 2. Apakah matriks berikut merupakan matriks bujur sangkar? berikan penjelasannya! 
+#### 2. Apakah matriks berikut merupakan matriks bujur sangkar? berikan penjelasannya!
 
 $$
 C = \begin{pmatrix}
